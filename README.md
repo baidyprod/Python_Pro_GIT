@@ -1,4 +1,4 @@
-# Homework - Parsing Functions
+# Homework - Working with git, making parsing functions
 
 This repository contains the implementation of two parsing functions: `parse` and `parse_cookie`. The purpose of these functions is to process and extract information from input data.
 
